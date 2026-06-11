@@ -1,5 +1,5 @@
-YAML
 name: app-build-action-dev
+
 on:
   workflow_dispatch:
   push:
